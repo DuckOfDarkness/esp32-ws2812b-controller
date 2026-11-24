@@ -1,0 +1,19 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# C++ / Arduino / PlatformIO
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+*.elf
+*.hex
+build/
+.pio/
+
+# Systemowe
+.DS_Store
+Thumbs.db
